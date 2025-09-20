@@ -21,6 +21,10 @@ This code analyzes gas price variations (2020–2024) to forecast prices, model 
 ## Images
 
 
+<p align="center">
+  <img src="images/gasforcast.png" width="450"/>
+</p>
+
 
 ## License
 
