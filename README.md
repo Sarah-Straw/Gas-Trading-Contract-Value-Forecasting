@@ -1,5 +1,5 @@
 # Gas-Trading-Contract-Value-Forecasting
-This code analyzes gas price variations (2020–2024) to forecast prices, model storage and trading costs, and estimate contract profit based on injection dates and volumes.
+Analyzes gas price variations (2020–2024) to forecast prices, model storage and trading costs, and estimate contract profit based on injection dates and volumes.
 ## Features
 
 -	The model combines annual gas price fluctuations (fitted with SciPy’s curve_fit) and long-term average price growth (captured with scikit-learn’s LinearRegression) to generate a more accurate price forecast.
